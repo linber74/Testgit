@@ -3,7 +3,7 @@ public class Main {
 
 
 
-        Greeting.sayHello("Linda");
+        Greeting.sayHello("Linda Bergin");
         System.out.println("Dagens datum: " + Utils.getToday());
 
     }
