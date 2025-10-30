@@ -1,10 +1,4 @@
-public class Main {
-    void main() {
-
-
-
-        Greeting.sayHello("Linda");
-        System.out.println("Dagens datum: " + Utils.getToday());
-
-    }
+void main() {
+    Greeting.sayHello("Linda");
+    System.out.println("Dagens datum: " + Utils.getToday());
 }
