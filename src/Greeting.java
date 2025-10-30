@@ -1,5 +1,5 @@
 public class Greeting {
     public static void sayHello(String name) {
-        System.out.println("Hej, " + name + "välkommen hem!");
+        System.out.println("Hej, " + name + "välkommen hem. Hoppas du har haft en bra dag!");
     }
 }
